@@ -1,0 +1,43 @@
+.black{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.black a{
+    text-decoration: none;
+    background-color: orangered;
+    display: inline-block;
+    color: white;
+    padding: 10px;
+}
+.blue{
+    background-color: #6462fd;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+    
+}
+.blue ul li{
+    list-style-type: none;
+    margin-right: 10px;
+}
+.orange{
+    background-color: orangered;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+    height: 200px;
+
+}
+.orange ul li{
+    list-style-type: none;
+}
+.four{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
